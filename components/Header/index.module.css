@@ -1,0 +1,38 @@
+.nav {
+	background-color: rgb(92, 201, 92);
+	border: 2px solid rgba(252, 237, 219, 0.953);
+	font-size: medium;
+	padding: 20px;
+	display: flex;
+	justify-content: space-evenly;
+	margin: 20px;
+		/* position: absolute; */
+	/* left: 0; */
+	/* top: 0; */
+
+	height: 60px;
+
+
+	& div #nav {
+		background-color: rgba(229, 229, 203, 0.919);
+		/* width: 100%; */
+		display: flex;
+		justify-content: space-evenly;
+		
+	}
+
+	& div #logo {
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	& span {
+		color: azure;
+		padding: 5px;
+		margin: 5px;
+
+	}
+
+
+}

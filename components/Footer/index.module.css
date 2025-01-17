@@ -1,0 +1,9 @@
+.footer {
+	background-color: rgb(164, 119, 100, 80);
+	display: flex;
+	justify-content: flex-start;
+	/* border: 1px solid rgba(252, 237, 219, 0.953); */
+	font-size: small;
+	/* height: 150px; */
+
+}
